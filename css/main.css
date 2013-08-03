@@ -1,0 +1,62 @@
+@font-face{ 
+	font-family: 'know_your_product';
+	src: url('know_your_product.eot');
+	src: url('know_your_product.eot?iefix') format('eot'),
+	     url('know_your_product.woff') format('woff'),
+	     url('know_your_product.ttf') format('truetype'),
+	     url('know_your_product.svg#webfont') format('svg');
+}
+h1{
+	font-family: 'know_your_product',arial, sans-serif;
+	font-size:2em !important;
+	margin: 0.3em 0 !important;
+	width :100%;
+
+}
+#data_page h1{
+	font-size:1.4em !important;
+}
+ul{
+	padding:0;
+	margin:0 !important;
+	border-radius: 0 !important;
+}
+.ui-collapsible-content{
+	padding:0 !important;
+}
+.ui-btn-inner{
+	padding:0 !important;
+	display:inline-block;
+}
+.main-h2 .ui-btn-text{
+	top:50% !important;
+}
+.main-h2{
+	height:64px;
+}
+.main-h2 figure{
+	margin:0;
+	display:inline-block;
+}
+.main-h2 p{
+	display:inline-block;
+	margin:0;
+	position:relative;
+	bottom:25px;
+	padding-left:15px;
+	font-size:1.4em;
+}
+#main_page .ui-icon-plus,#main_page .ui-icon-minus{
+	display:none;
+}
+.flyer{
+	width:100%
+}
+.flyer img{
+	width:100%;
+}
+#data_page .ui-btn-text{
+	display:inline-block;
+	padding:6px;
+	width:50px;
+}
