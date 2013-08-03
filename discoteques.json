@@ -1,0 +1,12 @@
+{
+	"discoteques":[
+	{"id":0,"name":"Bling Bling", "image":"blingbling.png"},
+	{"id":1,"name":"La Carpa", "image":"carpa.png"},
+	{"id":2,"name":"Nick Havanna", "image":"nickhabana.png"},
+	{"id":3,"name":"Opium", "image":"opim.png"},
+	{"id":4,"name":"Shoko", "image":"shoko.png"},
+	{"id":5,"name":"Soho", "image":"soho.png"},
+	{"id":6,"name":"Sutton", "image":"sutton.png"},
+	{"id":7,"name":"Universal", "image":"universal.png"}
+	]
+}
