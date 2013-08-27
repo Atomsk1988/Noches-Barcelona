@@ -1,8 +1,104 @@
 {
 	"0":{
+		"discoteque_id":0,
+		"name":"Splash", 
+		"image":"aguardientazo.jpg",
+		"description":"¡La edición del mayor festival blanco de Matinée está muy cerca! Para que te inspires y vayas eligiendo tu mejor look de blanco, te dejamos el cartel y el video de lo que será la experiencia blanca de Matinée Group. En esta nueva edición de LaLeche! destaca por méritos propios el cartel de la fiesta barcelonesa, en la mítica sala L'Atlàntida Barcelona: Taito Tikaro, André Vicenzzo, Lydia Sanz, Jordi Lights Lenz Garcia, J.Louis y el Vocal Live de Estela Martin!!",
+		"date":"12/8",
+		"horary":{
+			"boys":[["00:00","02:00","Gratis"],["02:00","03:00","12€ 1 consumición"],["02:00","03:00","17€ 2 consumiciones"]],
+			"girls":[["00:00","02:00","Gratis"],["02:00","03:00","10€ 1 consumición"],["02:00","03:00","15€ 2 consumiciones"]]
+		},
+		"extra_info":"MUY importante ir toh rechu"
+	},
+	"1":{
 		"discoteque_id":1,
 		"name":"Miss Carpa!", 
-		"image":"matineeibiza.png",
+		"image":"carpa.jpg",
+		"description":"¡La edición del mayor festival blanco de Matinée está muy cerca! Para que te inspires y vayas eligiendo tu mejor look de blanco, te dejamos el cartel y el video de lo que será la experiencia blanca de Matinée Group. En esta nueva edición de LaLeche! destaca por méritos propios el cartel de la fiesta barcelonesa, en la mítica sala L'Atlàntida Barcelona: Taito Tikaro, André Vicenzzo, Lydia Sanz, Jordi Lights Lenz Garcia, J.Louis y el Vocal Live de Estela Martin!!",
+		"date":"12/8",
+		"horary":{
+			"boys":[["00:00","02:00","Gratis"],["02:00","03:00","12€ 1 consumición"],["02:00","03:00","17€ 2 consumiciones"]],
+			"girls":[["00:00","02:00","Gratis"],["02:00","03:00","10€ 1 consumición"],["02:00","03:00","15€ 2 consumiciones"]]
+		},
+		"extra_info":"MUY importante ir toh rechu"
+	},
+	"2":{
+		"discoteque_id":2,
+		"name":"Matine wear!", 
+		"image":"crow.jpg",
+		"description":"¡La edición del mayor festival blanco de Matinée está muy cerca! Para que te inspires y vayas eligiendo tu mejor look de blanco, te dejamos el cartel y el video de lo que será la experiencia blanca de Matinée Group. En esta nueva edición de LaLeche! destaca por méritos propios el cartel de la fiesta barcelonesa, en la mítica sala L'Atlàntida Barcelona: Taito Tikaro, André Vicenzzo, Lydia Sanz, Jordi Lights Lenz Garcia, J.Louis y el Vocal Live de Estela Martin!!",
+		"date":"12/8",
+		"horary":{
+			"boys":[["00:00","02:00","Gratis"],["02:00","03:00","12€ 1 consumición"],["02:00","03:00","17€ 2 consumiciones"]],
+			"girls":[["00:00","02:00","Gratis"],["02:00","03:00","10€ 1 consumición"],["02:00","03:00","15€ 2 consumiciones"]]
+		},
+		"extra_info":"MUY importante ir toh rechu"
+	},
+	"3":{
+		"discoteque_id":2,
+		"name":"Matine Ibiza!", 
+		"image":"matineeatleantida.jpg",
+		"description":"¡La edición del mayor festival blanco de Matinée está muy cerca! Para que te inspires y vayas eligiendo tu mejor look de blanco, te dejamos el cartel y el video de lo que será la experiencia blanca de Matinée Group. En esta nueva edición de LaLeche! destaca por méritos propios el cartel de la fiesta barcelonesa, en la mítica sala L'Atlàntida Barcelona: Taito Tikaro, André Vicenzzo, Lydia Sanz, Jordi Lights Lenz Garcia, J.Louis y el Vocal Live de Estela Martin!!",
+		"date":"12/8",
+		"horary":{
+			"boys":[["00:00","02:00","Gratis"],["02:00","03:00","12€ 1 consumición"],["02:00","03:00","17€ 2 consumiciones"]],
+			"girls":[["00:00","02:00","Gratis"],["02:00","03:00","10€ 1 consumición"],["02:00","03:00","15€ 2 consumiciones"]]
+		},
+		"extra_info":"MUY importante ir toh rechu"
+	},
+	"4":{
+		"discoteque_id":3,
+		"name":"Miss Carpa!", 
+		"image":"matineeibiza.jpg",
+		"description":"¡La edición del mayor festival blanco de Matinée está muy cerca! Para que te inspires y vayas eligiendo tu mejor look de blanco, te dejamos el cartel y el video de lo que será la experiencia blanca de Matinée Group. En esta nueva edición de LaLeche! destaca por méritos propios el cartel de la fiesta barcelonesa, en la mítica sala L'Atlàntida Barcelona: Taito Tikaro, André Vicenzzo, Lydia Sanz, Jordi Lights Lenz Garcia, J.Louis y el Vocal Live de Estela Martin!!",
+		"date":"12/8",
+		"horary":{
+			"boys":[["00:00","02:00","Gratis"],["02:00","03:00","12€ 1 consumición"],["02:00","03:00","17€ 2 consumiciones"]],
+			"girls":[["00:00","02:00","Gratis"],["02:00","03:00","10€ 1 consumición"],["02:00","03:00","15€ 2 consumiciones"]]
+		},
+		"extra_info":"MUY importante ir toh rechu"
+	},
+	"5":{
+		"discoteque_id":4,
+		"name":"Miss Carpa!", 
+		"image":"matineewearcollection.jpg",
+		"description":"¡La edición del mayor festival blanco de Matinée está muy cerca! Para que te inspires y vayas eligiendo tu mejor look de blanco, te dejamos el cartel y el video de lo que será la experiencia blanca de Matinée Group. En esta nueva edición de LaLeche! destaca por méritos propios el cartel de la fiesta barcelonesa, en la mítica sala L'Atlàntida Barcelona: Taito Tikaro, André Vicenzzo, Lydia Sanz, Jordi Lights Lenz Garcia, J.Louis y el Vocal Live de Estela Martin!!",
+		"date":"12/8",
+		"horary":{
+			"boys":[["00:00","02:00","Gratis"],["02:00","03:00","12€ 1 consumición"],["02:00","03:00","17€ 2 consumiciones"]],
+			"girls":[["00:00","02:00","Gratis"],["02:00","03:00","10€ 1 consumición"],["02:00","03:00","15€ 2 consumiciones"]]
+		},
+		"extra_info":"MUY importante ir toh rechu"
+	},
+	"6":{
+		"discoteque_id":5,
+		"name":"Crow", 
+		"image":"splash.jpg",
+		"description":"¡La edición del mayor festival blanco de Matinée está muy cerca! Para que te inspires y vayas eligiendo tu mejor look de blanco, te dejamos el cartel y el video de lo que será la experiencia blanca de Matinée Group. En esta nueva edición de LaLeche! destaca por méritos propios el cartel de la fiesta barcelonesa, en la mítica sala L'Atlàntida Barcelona: Taito Tikaro, André Vicenzzo, Lydia Sanz, Jordi Lights Lenz Garcia, J.Louis y el Vocal Live de Estela Martin!!",
+		"date":"12/8",
+		"horary":{
+			"boys":[["00:00","02:00","Gratis"],["02:00","03:00","12€ 1 consumición"],["02:00","03:00","17€ 2 consumiciones"]],
+			"girls":[["00:00","02:00","Gratis"],["02:00","03:00","10€ 1 consumición"],["02:00","03:00","15€ 2 consumiciones"]]
+		},
+		"extra_info":"MUY importante ir toh rechu"
+	},
+	"7":{
+		"discoteque_id":6,
+		"name":"La carpa verano", 
+		"image":"splash.jpg",
+		"description":"¡La edición del mayor festival blanco de Matinée está muy cerca! Para que te inspires y vayas eligiendo tu mejor look de blanco, te dejamos el cartel y el video de lo que será la experiencia blanca de Matinée Group. En esta nueva edición de LaLeche! destaca por méritos propios el cartel de la fiesta barcelonesa, en la mítica sala L'Atlàntida Barcelona: Taito Tikaro, André Vicenzzo, Lydia Sanz, Jordi Lights Lenz Garcia, J.Louis y el Vocal Live de Estela Martin!!",
+		"date":"12/8",
+		"horary":{
+			"boys":[["00:00","02:00","Gratis"],["02:00","03:00","12€ 1 consumición"],["02:00","03:00","17€ 2 consumiciones"]],
+			"girls":[["00:00","02:00","Gratis"],["02:00","03:00","10€ 1 consumición"],["02:00","03:00","15€ 2 consumiciones"]]
+		},
+		"extra_info":"MUY importante ir toh rechu"
+	},
+	"8":{
+		"discoteque_id":7,
+		"name":"Miss Carpa!", 
+		"image":"splash.jpg",
 		"description":"¡La edición del mayor festival blanco de Matinée está muy cerca! Para que te inspires y vayas eligiendo tu mejor look de blanco, te dejamos el cartel y el video de lo que será la experiencia blanca de Matinée Group. En esta nueva edición de LaLeche! destaca por méritos propios el cartel de la fiesta barcelonesa, en la mítica sala L'Atlàntida Barcelona: Taito Tikaro, André Vicenzzo, Lydia Sanz, Jordi Lights Lenz Garcia, J.Louis y el Vocal Live de Estela Martin!!",
 		"date":"12/8",
 		"horary":{
