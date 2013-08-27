@@ -12,6 +12,7 @@ Librerias/frameworks usados:
 -Jquery
 -Jquery mobile
 -Normalize(.css)
+-Hara falta bootstrap?...
 
 TO DO:
 -Conectividad a base de datos(Versión a.1.2)(seguramente un archivo php que escupira los dos JSON)(BACKEND en proceso de creacion).
