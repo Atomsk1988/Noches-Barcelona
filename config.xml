@@ -1,0 +1,11 @@
+<widget xmlns     = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "mu.zz.brais.noches-bcn"
+        version   = "1.0.0"
+        versionCode="00">
+        <name>Noches-Barcelona</name>
+        <description>
+        	App para inscripcion a listas de dicotecas.
+        </description>
+        <access origin="http://brais.zz.mu" />
+</widget>

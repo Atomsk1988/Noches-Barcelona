@@ -8,6 +8,7 @@
 bin/
 tmp/
 admin/
+img/
 *.tmp
 *.bak
 *.swp

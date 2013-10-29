@@ -7,13 +7,29 @@
 	     url('know_your_product.svg#webfont') format('svg');
 }
 #data_page h1{
-	font-size:1.4em !important;
+	font-size:1em !important;
+	margin:0.4em;
+	width:50%;
+	height:2em;
+	display: block;
 }
-#data_page .ui-btn-text{
-	display:inline-block;
-	padding:6px;
-	width:50px;
-}
+
+/*@media all and(width:240px){*/
+	#data_page h1 span{
+		display: inline-block;
+		position: absolute;
+		right: 0;
+		margin-right: 0.6em;
+	}
+	#data_page h1 span:nth-child(2){
+		top:1.3em;
+	}
+	#data_page .ui-btn-text{
+		display:inline-block;
+		padding:6px;
+		width:50px;
+	}	
+/*}*/
 .flyer{
 	width:100%;
 	padding:0;
@@ -24,7 +40,7 @@
 }
 h1{
 	font-family: 'know_your_product',arial, sans-serif;
-	font-size:2em !important;
+	font-size:1em !important;
 	margin: 0.3em 0 !important;
 	width :100%;
 
@@ -61,4 +77,42 @@ ul{
 }
 #main_page .ui-icon-plus,#main_page .ui-icon-minus{
 	display:none;
+}
+#data_page article h2,
+#data_page article p,
+#data_page article fieldset{
+	margin:0.5em 0.5em;
+}
+#data_page article h2{
+	margin:1em 0.5em;
+}
+#data_page label{
+	vertical-align: middle;
+}
+
+#data_page hr{
+	margin: 1.2em 0;
+}
+
+@media all and (min-width: 28em){
+	.ui-field-contain div.ui-slider {
+		display: inline-block;
+		margin: 1.2em 0!important;
+		vertical-align: middle;
+		width: 75%;
+	}
+}
+.ui-slider-track,
+.ui-slider-switch {
+	position: relative;
+	overflow: visible;
+	height: 15px;
+	margin: 0 0 0 68px;
+	top: 6px;
+}
+input.ui-input-text.ui-slider-input {
+	margin: 0 0 0 0.5em;
+}
+#agent_panel fieldset{
+	margin: 1em;
 }
